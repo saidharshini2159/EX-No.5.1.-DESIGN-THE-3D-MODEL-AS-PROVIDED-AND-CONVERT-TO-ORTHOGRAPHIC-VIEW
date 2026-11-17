@@ -35,7 +35,8 @@ To create orthographic view of given 3D model
 15. <img width="703" height="646" alt="Screenshot 2026-11-17 162539" src="https://github.com/user-attachments/assets/63d5dc3a-291f-48d9-91a5-2c89701b7751" />
 
 16. Add Chamfers: Apply a slight Chamfer to the top rim of the main center cylinder and the mounting holes to finish the part.
-17. 
+
+
 
 
 
